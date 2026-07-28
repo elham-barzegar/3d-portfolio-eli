@@ -7,7 +7,7 @@ const About = () => {
         <div className='backgroundColor'>
             <Navbar />
              <img
-                src="src/assets/images/eli.jpg"
+                src="/public/images/eli.jpg"
                 alt="Project Image"
                 width={800}
                 height={650}
@@ -16,7 +16,7 @@ const About = () => {
 
             <br /> <br/>
             <hr className="text-white" />
-            <h3 className='text-3xl text-white  text-center font-bold mt-5 mb-5'>Learn more about me</h3>
+            <h3 className='text-3xl text-gray-950  text-center font-bold mt-5 mb-5'>Learn more about me</h3>
             <hr className="text-white" />
             <p className='text-justify text-white leading-10 m-30' dir='ltr'>
                 Passionate front-end developer focused on building responsive, accessible interfaces with modern web technologies. Proficient in HTML, CSS, JavaScript, React, and Next.js. Committed to writing clean, maintainable code and continuously adopting new tools to improve performance and UX. Experienced in collaborating with design, product, and engineering teams to deliver high-quality features on time and in alignment with product goals.

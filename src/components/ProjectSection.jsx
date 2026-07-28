@@ -37,7 +37,7 @@ const ProjectSection = () => {
                             <p className="block text-base font-light leading-relaxed text-inherit ml-2">{items.properties}</p>
                         </div>
                         {/*<div className="p-6 pt-0">*/}
-                        {/*    <button className="text-center outline-dotted p-3 rounded-lg shadow-md">ادامه</button>*/}
+                        {/*    <button className="text-center outline-dotted p-3 rounded-lg shadow-md">continue</button>*/}
                         {/*</div>*/}
 
                     </div>

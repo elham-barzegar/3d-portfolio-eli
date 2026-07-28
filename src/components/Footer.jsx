@@ -9,14 +9,14 @@ const Footer = () => {
                         <img src="/E-favicon.ico" className="h-8 ml-4" alt="portfolio logo"/>
                         <span className="self-center text-2xl font-semibold whitespace-nowrap ">Portfolio</span>
                     </a>
-                    <ul className="flex flex-wrap item-center mb-6 text-sm font-medium text-gray-200 mt-6">
+                    <ul className="flex flex-wrap item-center mb-6 text-lg text-black font-bold mt-6">
                         <li><a href="/main" className="hover:underline me-4 md:me-6">MainPage</a></li>
                         <li><a href="./" className="hover:underline me-4 md:me-6">Home</a></li>
                         <li><a href="/about" className="hover:underline me-4 md:me-6">About Me</a></li>
                     </ul>
                 </div>
                 <hr  className="my-6 border-gray-200 sm:mx-auto lg:my-8"/>
-                <span className="text-white text-lg mx-auto">Design and Development : Elham Barzeghar</span>
+                <span className="text-black font-semibold text-lg mx-auto">Design and Development : Elham Barzeghar</span>
             </div>
         </footer>
     </div>
