@@ -2,7 +2,6 @@ import {useState , Suspense} from 'react'
 import {OrbitControls, Preload, useGLTF, Html, OrthographicCamera} from '@react-three/drei'
 import { Canvas } from '@react-three/fiber'
 import aboutModel from '../../assets/models/of_planes_and_satellites.glb'
-import { FcHome ,FcAbout } from "react-icons/fc";
 import * as THREE from 'three'
 import Loader from '../Loader';
 
