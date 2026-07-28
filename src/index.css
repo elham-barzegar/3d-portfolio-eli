@@ -1,0 +1,21 @@
+@import "tailwindcss";
+@tailwind utilities;
+
+@font-face {
+    font-family: sans;
+    src: url('./assets/fonts/IRANSansWeb.ttf');
+}
+
+*{
+    /*margin: 0;*/
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans, sans-serif;
+
+}
+.backgroundColor{
+    background: #3477eb;
+    background: -webkit-linear-gradient(to right, #3477eb,#3443eb );
+    background: linear-gradient(to right, #4634eb, #6434eb);
+
+}

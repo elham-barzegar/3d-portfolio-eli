@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Digital currency website design",
+    "mainImg": "/public/project/Shot%200003.png",
+    "properties": "A modern, responsive design emphasizing clarity and accessibility for financial content. Highlights clean typography, intuitive navigation, and engaging data visualization."
+  },
+  {
+    "title": "Campsite rental website design",
+    "mainImg": "/public/project/Shot%200007.png",
+    "properties": "User-friendly interface focused on quick searches and seamless booking. Emphasizes responsive layouts, appealing imagery, and clear call-to-action flows."
+  },
+  {
+    "title": "Coffee shop website design",
+    "mainImg": "/public/project/Shot%200013.png",
+    "properties": "Warm, inviting UI with a focus on menu exploration and online ordering. Uses appetizing visuals, fast performance, and accessible components."
+  },
+  {
+    "title": "Resume website design",
+    "mainImg": "/public/project/Shot%200010.png",
+    "properties": "Clean, professional layout showcasing personal branding. Prioritizes readability, responsive behavior, and straightforward navigation."
+  },
+  {
+    "title": "Fast food store website design",
+    "mainImg": "/public/project/Shot%200018.png",
+    "properties": "Energetic design with quick-loading menus and easy checkout. Features bold visuals, optimized performance, and mobile-first interactions."
+  },
+  {
+    "title": "Personal website design",
+    "mainImg": "/public/project/Shot%200023.png",
+    "properties": "Minimalist, reflective site emphasizing biography and projects. Balances typography and imagery with smooth user experience."
+  },
+  {
+    "title": "Portfolio website design",
+    "mainImg": "/public/project/Shot%200027.png",
+    "properties": "Visual-forward portfolio presenting projects and skills. Focuses on grid layout, fast interactions, and scalable components."
+  },
+  {
+  "title": "Training site design",
+  "mainImg": "/public/project/Shot%200022.png",
+  "properties": "Clear, instructional design for learning paths and modules. Highlights organized content, progress tracking, and accessible multimedia."
+}
+]
