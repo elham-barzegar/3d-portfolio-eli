@@ -7,7 +7,7 @@ const About = () => {
         <div className='backgroundColor'>
             <Navbar />
              <img
-                src="/public/images/eli.jpg"
+                src="/images/eli.jpg"
                 alt="Project Image"
                 width={800}
                 height={650}
