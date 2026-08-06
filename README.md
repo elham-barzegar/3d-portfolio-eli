@@ -6,7 +6,7 @@ An interactive 3D portfolio website built with React, Three.js and Tailwind CSS.
 
 https://3d-portfolio-eli.vercel.app/
 
-![Project Preview](./pr_7.png)
+![Project Preview](./home.png)
 
 
 ## 📌 Overview
