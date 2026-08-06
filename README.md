@@ -1,16 +1,53 @@
-# React + Vite
+# 🌌 3D Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive 3D portfolio website built with React, Three.js and Tailwind CSS.
 
-Currently, two official plugins are available:
+🌐 Live Demo:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://3d-portfolio-eli.vercel.app/
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📌 Overview
 
-## Expanding the ESLint configuration
+A creative developer portfolio experience combining modern frontend development with interactive 3D elements.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The project demonstrates the use of Three.js for creating immersive web experiences.
+
+
+## ✨ Features
+
+- Interactive 3D environment
+- Modern portfolio layout
+- Smooth animations
+- Responsive design
+- Multi-page structure:
+  - Home
+  - Main
+  - About
+
+
+## 🛠 Technologies
+
+- React
+- Three.js
+- Tailwind CSS
+- Axios
+- JavaScript
+
+
+## 🚀 Highlights
+
+- 3D web experience
+- Creative UI development
+- Interactive frontend animations
+- Component-based architecture
+
+
+## 👩‍💻 Author
+
+Elham Barzegar
+
+Front-End Developer
+
+Portfolio:
+https://elhambarzegar.ir
